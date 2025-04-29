@@ -1,4 +1,5 @@
-## Hi there 👋
+
+## 엄준식은 살아있다. 💀
 
 <!--
 **Hoodscp/Hoodscp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
